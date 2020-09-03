@@ -1,0 +1,17 @@
+header {
+  border-bottom: 1px solid gray;
+  padding:20px;
+}
+nav {
+  float:left;
+  width:200px;
+  height: 600px;
+  border-right: 1px solid gray;
+}
+nav ol{
+  list-style: circle;
+}
+article {
+  float: left;
+  padding: 10px;
+}
