@@ -1,0 +1,5 @@
+<h2>JavaScrips란?</h2>
+
+<ul>
+  <li>JavaScripts는 웹페이지를 프로그래밍적으로 제어하는 언어입니다</li>
+</ul>
